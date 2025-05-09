@@ -97,3 +97,19 @@ h1, h2 {
   color: #555;
 }
 }
+* Header Styling */
+header {
+  background-color: #0073e6;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
